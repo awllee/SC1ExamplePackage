@@ -1,0 +1,18 @@
+Package: SC1ExamplePackage
+Type: Package
+Title: Compress Images Using the Truncated SVD
+Version: 0.0.1
+Author: Anthony Lee
+Maintainer: Anthony Lee <awllee@gmail.com>
+Description: This package is used only as an example R package. It provides
+    functions for compressing and decompressing matrices, using a truncated
+    singular value decomposition. It includes helper functions for loading JPEG
+    images.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports:
+    jpeg
+Suggests: 
+    testthat (>= 2.1.0)
