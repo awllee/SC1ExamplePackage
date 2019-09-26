@@ -2,5 +2,11 @@ language: r
 dist: xenial
 cache: packages
 branches:
-    only:
-        - master
+  only:
+    - master
+
+r_github_packages:
+  - r-lib/covr
+
+after_success:
+  - Rscript -e 'covr::codecov()'
