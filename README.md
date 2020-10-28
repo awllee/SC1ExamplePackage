@@ -1,6 +1,6 @@
 # SC1 Example Package
 
-[![Build Status](https://travis-ci.org/awllee/SC1ExamplePackage.svg?branch=master)](https://travis-ci.org/awllee/SC1ExamplePackage)
+[![Build Status](https://travis-ci.com/awllee/SC1ExamplePackage.svg?branch=master)](https://travis-ci.com/awllee/SC1ExamplePackage)
 [![codecov](https://codecov.io/gh/awllee/SC1ExamplePackage/branch/master/graph/badge.svg)](https://codecov.io/gh/awllee/SC1ExamplePackage)
 
 This is a simple, example R package.
