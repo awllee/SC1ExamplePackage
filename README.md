@@ -9,4 +9,4 @@ This is a simple, example R package.
 
 The functionality is not very interesting, but it is documented and there are tests.
 
-<!--Commits trigger a build and test on Travis, and upload coverage to Codecov.-->
+Commits trigger a build and test, and uploads coverage to Codecov.
